@@ -1,0 +1,6 @@
+
+spring.application.name=authorization-service
+spring.profiles.active=default
+spring.cloud.config.uri=http://localhost:5555
+spring.cloud.config.username=rv750
+spring.cloud.config.password=Calcium#500
